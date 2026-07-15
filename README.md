@@ -1,4 +1,3 @@
-# learning-journey
 # My Learning Journey 🚀
 2nd Year ECE Student | Learning AI/ML + Embedded Systems Daily
 ## 📊 AI/ML Journey
