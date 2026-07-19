@@ -10,10 +10,12 @@ Status:-|✅ Complete | `
 Folder:-|`ai-ml-journey/02-numpy/`|
 ======= Complete ===========
 Topic:-|Pandas |
-Status:-|🔄 In Progress | `
+Status:-|✅ Complete  | `
 Folder:-| `ai-ml-journey/03-pandas/` |
-
+======= Complete ===========
+Topic:-|matplotlib |
+Status:-|✅ Complete  | `
+Folder:-| `ai-ml-journey/ 04-matplotlib` |
 ## 🔌 Embedded Journey
-
 ## Daily Commitment
 Coding daily at 9 PM. Tracking progress with green commits.
